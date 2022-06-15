@@ -11,8 +11,6 @@
 
 • توكن البوت
 
-[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/taher-1/TikTok)
-
 #### المميزات:
 
 • تحميل الفيديوهات بدون علامه مائية
@@ -32,9 +30,4 @@
 
 ## قناه سورس كود البوت:
 
-[![القناه](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/Dragon_2022_D)
-[![المطور](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/T2R_9)
-
-
-#### LICENSE
-- GPLv3
+[قناة المطور][t.me/HHSPX]
